@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\src\TollGroup.Provider\Provider.TollGroup.csproj" />
+  </ItemGroup>
+</Project>
